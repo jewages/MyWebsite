@@ -1,14 +1,4 @@
-# James Wages
-
-I am Ph.D. candidate in psychology at Northwestern University.
-
-## Education
-Northwestern University, M.S. Psychology (2018)
-
-University of Arkansas, B.A. Psychology (2013)
-
-## Research
-I study social perception and cognition, stereotypes, risk-taking, and bias.
+#
 
 
 
